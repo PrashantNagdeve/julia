@@ -9,6 +9,7 @@
 /julia-*
 /source-dist.tmp
 /source-dist.tmp1
+/base/base.cache
 
 *.exe
 *.dll
